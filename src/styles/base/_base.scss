@@ -1,0 +1,80 @@
+html, body {
+    width: 960px;
+    margin: 0 auto;
+    font-size: 16px;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+.hidden {
+    display: none;
+}
+
+button {
+    appearance: none;
+    border: none;
+    padding: 0;
+    outline: 0;
+    cursor: pointer;
+}
+
+.button {
+    height: 56px;
+    background-color: $gray-100;
+    border: none;
+    font-size: 20px;
+    color: $gray-400;
+    font-weight: $font-weight-bold;
+    outline: 0;
+    transition: all .15s;
+
+    &.fluid {
+        width: 100%;
+    }
+    &:hover,
+    &:active {
+        background-color: $primary;
+        color: $white;
+    }
+}
+
+.modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    right: auto;
+    bottom: auto;
+    width: 352px;
+    height: 229px;
+    background-color: $white;
+    transform: translate(-50%, -50%);
+    outline: none;
+
+    button {
+        position: absolute;
+        right: 10px;
+        top: 10px;
+        color: $gray-500;
+    }
+
+    &.aligned {
+        &.center {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(81, 81, 81, 0.55);
+}
+
+.aligned {
+    &.center {
+        text-align: center;
+    }
+}

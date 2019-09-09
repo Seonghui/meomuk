@@ -1,0 +1,365 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "name": "장꼬방",
+      "distance": 1,
+      "price": 1,
+      "category": [
+        "korean",
+        "soup"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "진미",
+      "distance": 3,
+      "price": 2,
+      "category": [
+        "japanese",
+        "world"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "해월 양꼬치",
+      "distance": 3,
+      "price": 1,
+      "category": [
+        "chinese"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "GS 편의점",
+      "distance": 0,
+      "price": 0,
+      "category": [
+        "anytizer"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "중국성",
+      "distance": 0,
+      "price": 1,
+      "category": [
+        "chinese",
+        "world",
+        "noodle",
+        "soup"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "우리수산",
+      "distance": 1,
+      "price": 1,
+      "category": [
+        "korean",
+        "soup"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "설리반",
+      "distance": 0,
+      "price": 2,
+      "category": [
+        "world",
+        "anytizer",
+        "noodle"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "청국장",
+      "distance": 1,
+      "price": 1,
+      "category": [
+        "korean",
+        "soup"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "파리바게뜨",
+      "distance": 1,
+      "price": 0,
+      "category": [
+        "anytizer"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "드리옹",
+      "distance": 2,
+      "price": 1,
+      "category": [
+        "korean",
+        "japanese",
+        "soup",
+        "noodle"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "비비큐",
+      "distance": 2,
+      "price": 1,
+      "category": [
+        "world"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "고향밥상",
+      "distance": 2,
+      "price": 0,
+      "category": [
+        "korean",
+        "buffet"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "칼국수",
+      "distance": 2,
+      "price": 1,
+      "category": [
+        "korean",
+        "noodle",
+        "soup"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "우리동네 청년어부",
+      "distance": 2,
+      "price": 1,
+      "category": [
+        "japanese"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "7번가피자",
+      "distance": 2,
+      "price": 1,
+      "category": [
+        "world"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "가마솥감자탕(라돈)",
+      "distance": 3,
+      "price": 1,
+      "category": [
+        "korean",
+        "soup",
+        "noodle"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "매화",
+      "distance": 2,
+      "price": 1,
+      "category": [
+        "chinese",
+        "soup",
+        "noodle"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "단풍애",
+      "distance": 2,
+      "price": 0,
+      "category": [
+        "korean",
+        "soup",
+        "noodle",
+        "bunsik"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "레몬그라스(태국)",
+      "distance": 2,
+      "price": 2,
+      "category": [
+        "world"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "신선설농탕",
+      "distance": 3,
+      "price": 1,
+      "category": [
+        "korean",
+        "soup"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "북창동 순두부",
+      "distance": 2,
+      "price": 1,
+      "category": [
+        "korean",
+        "soup"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "진순대",
+      "distance": 2,
+      "price": 1,
+      "category": [
+        "korean",
+        "soup"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "강촌식당(닭갈비)",
+      "distance": 3,
+      "price": 1,
+      "category": [
+        "korean"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "사랑이네 분식",
+      "distance": 3,
+      "price": 0,
+      "category": [
+        "korean",
+        "soup",
+        "noodle",
+        "bunsik"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "국대떡볶이",
+      "distance": 3,
+      "price": 0,
+      "category": [
+        "korean",
+        "bunsik"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "한솥",
+      "distance": 3,
+      "price": 0,
+      "category": [
+        "korean",
+        "anytizer"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "12 바스켓(샐러드)",
+      "distance": 4,
+      "price": 0,
+      "category": [
+        "anytizer"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "에머이",
+      "distance": 4,
+      "price": 1,
+      "category": [
+        "world",
+        "soup",
+        "noodle"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "삼보부대찌개",
+      "distance": 3,
+      "price": 1,
+      "category": [
+        "korean",
+        "soup",
+        "noodle"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "용호낙지(낙곱새)",
+      "distance": 4,
+      "price": 2,
+      "category": [
+        "korean"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "미양마늘보쌈",
+      "distance": 4,
+      "price": 1,
+      "category": [
+        "korean"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "손칼국시보쌈",
+      "distance": 4,
+      "price": 1,
+      "category": [
+        "korean",
+        "noodle"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "본죽",
+      "distance": 4,
+      "price": 1,
+      "category": [
+        "korean"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "메가스터디 구내식당",
+      "distance": 3,
+      "price": 0,
+      "category": [
+        "korean",
+        "buffet"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "비스트로미",
+      "distance": 4,
+      "price": 3,
+      "category": [
+        "world",
+        "noodle"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "오복채",
+      "distance": 4,
+      "price": 3,
+      "category": [
+        "korean"
+      ]
+    }
+  ]
+}

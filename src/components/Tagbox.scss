@@ -1,0 +1,36 @@
+@import '../styles/main';
+
+.tagbox {
+    display: inline-block;
+    position: relative;
+    margin-right: 24px;
+    line-height: 20px;
+    cursor: pointer;
+}
+.tagbox {
+    margin-top: 18px;
+    .label {
+        display: flex;
+        align-items: center;
+        position: relative;
+        width: 100%;
+        margin-right: 10px;
+        padding: 8px 16px;
+        background-color: $gray-100;
+        border-radius: 30px;
+        color: $gray-500;
+        text-align: center;
+        box-sizing: border-box;
+        transition: all .15s;
+
+        span {
+            display: inline-block;
+            padding-right: 5px;
+        }
+    }
+
+    input[type="checkbox"]:checked + .label {
+        background-color: $primary;
+        color: $white;
+    }
+}
