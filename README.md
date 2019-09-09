@@ -12,7 +12,7 @@
 ## Dependencies
 
 * React 16.8.6
-* 3.10.1
+* react-modal 3.10.1
 * node-sass 4.12.0
 * material-ui 4.3.3"
 
