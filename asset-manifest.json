@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/momuk/static/css/main.ec41f869.chunk.css",
+    "main.js": "/momuk/static/js/main.3344c61f.chunk.js",
+    "main.js.map": "/momuk/static/js/main.3344c61f.chunk.js.map",
+    "runtime~main.js": "/momuk/static/js/runtime~main.658bed49.js",
+    "runtime~main.js.map": "/momuk/static/js/runtime~main.658bed49.js.map",
+    "static/js/2.5c87a59c.chunk.js": "/momuk/static/js/2.5c87a59c.chunk.js",
+    "static/js/2.5c87a59c.chunk.js.map": "/momuk/static/js/2.5c87a59c.chunk.js.map",
+    "index.html": "/momuk/index.html",
+    "precache-manifest.0432dfed9e66bfb912d7b0bf660622de.js": "/momuk/precache-manifest.0432dfed9e66bfb912d7b0bf660622de.js",
+    "service-worker.js": "/momuk/service-worker.js",
+    "static/css/main.ec41f869.chunk.css.map": "/momuk/static/css/main.ec41f869.chunk.css.map"
+  }
+}
