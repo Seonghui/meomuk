@@ -123,7 +123,7 @@
     },
     {
       "id": 12,
-      "name": "칼국수",
+      "name": "송원칼국수",
       "distance": 2,
       "price": 1,
       "category": [
@@ -359,6 +359,15 @@
       "price": 3,
       "category": [
         "korean"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "스타벅스",
+      "distance": 2,
+      "price": 0,
+      "category": [
+        "cafe"
       ]
     }
   ]

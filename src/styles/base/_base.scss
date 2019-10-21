@@ -36,6 +36,10 @@ button {
     }
 }
 
+.button + .button {
+    margin-top: 10px;
+}
+
 .modal {
     position: absolute;
     top: 50%;

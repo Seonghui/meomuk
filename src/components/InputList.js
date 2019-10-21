@@ -146,6 +146,13 @@ class Inputs extends Component {
           label: '간편식',
           name: 'category',
         },
+        {
+          id: 9,
+          value: 'cafe',
+          isChecked: false,
+          label: '카페',
+          name: 'category',
+        }
       ]
     }
   }
@@ -262,6 +269,20 @@ class Inputs extends Component {
     }
   }
 
+  handleRandomSubmit = e => {
+    e.preventDefault()
+    const { restaurants } = this.props
+    // 랜덤 출력을 위한 인덱스
+    const randomIndex = Math.floor(Math.random() * restaurants.length)
+    const result = restaurants[randomIndex].name
+
+    this.setState({
+      result: result,
+      resultList: restaurants,
+      resultIsOpen: true
+    })
+  }
+
   render() {
     const { distanceOptions, priceOptions, categoryOptions, result, resultList, resultIsOpen } = this.state
 
@@ -307,6 +328,7 @@ class Inputs extends Component {
           {categoryForm}
         </div>
         <button onClick={this.handleSubmit} className="fluid button">오늘 모먹?</button>
+        <button onClick={this.handleRandomSubmit} className="fluid button">랜덤 선택</button>
       </form>
     )
   }
