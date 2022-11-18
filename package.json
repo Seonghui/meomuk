@@ -11,7 +11,7 @@
     "react-dom": "^16.8.6",
     "react-google-login": "^5.0.4",
     "react-modal": "^3.10.1",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "styled-components": "^4.3.2",
     "styled-reset": "^3.0.3"
   },
